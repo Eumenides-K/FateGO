@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FateGO", "FateGO\FateGO.csproj", "{B7F84DBE-30C2-4514-A9A6-A1B06F853415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F84DBE-30C2-4514-A9A6-A1B06F853415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F84DBE-30C2-4514-A9A6-A1B06F853415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F84DBE-30C2-4514-A9A6-A1B06F853415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F84DBE-30C2-4514-A9A6-A1B06F853415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D57A77-7962-43E7-96E2-BEE6EE57EDC3}
+	EndGlobalSection
+EndGlobal
